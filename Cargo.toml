@@ -1,0 +1,9 @@
+[package]
+name = "vec_plus"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "lib_vec_plus"
+
+[dependencies]
